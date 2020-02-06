@@ -1,4 +1,4 @@
-
+a website scraping popular topics & hot news from hot websites 
 
 ## Available Scripts
 
